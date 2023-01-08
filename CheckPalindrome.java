@@ -28,15 +28,4 @@ public class CheckPalindrome {
         boolean b=isPalindrome(n);
         System.out.println(b);
     }
-
-
-
 }
-
-
-
-
-
-
-
-
